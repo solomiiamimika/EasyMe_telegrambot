@@ -1,2 +1,0 @@
-# EasyMe_telegrambot
-telegrambot
