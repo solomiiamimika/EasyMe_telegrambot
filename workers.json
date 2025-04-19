@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "user_id": 1210390585,
+    "name": "Соломія",
+    "services": [
+      "які є варіанти"
+    ],
+    "area": "мюнхен",
+    "availability": "завжди",
+    "rating": 0
+  },
+  {
+    "id": 2,
+    "user_id": 1210390585,
+    "name": "Соломія",
+    "services": [
+      "Приготувати їжу",
+      "Подати таблетки",
+      "Будь-яка робота"
+    ],
+    "area": "будь-який",
+    "availability": "будь-коли",
+    "rating": 0
+  },
+  {
+    "id": 3,
+    "user_id": 1210390585,
+    "name": "kk",
+    "services": [
+      "Подати таблетки",
+      "Приготувати їжу"
+    ],
+    "area": "Neuhausen",
+    "availability": "confirm",
+    "location": {
+      "lat": 48.150641,
+      "lon": 11.556846
+    },
+    "rating": 0
+  },
+  {
+    "id": 4,
+    "user_id": 1210390585,
+    "name": "Мито",
+    "services": [
+      "Приготувати їжу"
+    ],
+    "area": "Glockenbach",
+    "availability": "confirm",
+    "location": {
+      "lat": 48.150641,
+      "lon": 11.556846
+    },
+    "rating": 0
+  }
+]
