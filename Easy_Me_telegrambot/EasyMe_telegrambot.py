@@ -12,7 +12,7 @@ from geopy.distance import distance
 import os
 
 # 🔐 ВСТАВ СЮДИ СВІЙ БОТ-ТOKEN
-BOT_TOKEN = "7421424417:AAH1norish7VoznWvbvnzTv2FaTRj5LQwJk"
+BOT_TOKEN = ""
 
 REGISTER_NAME = 0
 
