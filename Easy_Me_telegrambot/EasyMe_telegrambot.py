@@ -5,7 +5,7 @@ from telegram import (
 from telegram.ext import (
     ApplicationBuilder, CommandHandler, ContextTypes,
     ConversationHandler, MessageHandler, CallbackQueryHandler,
-    filters
+   
 )
 import json
 from geopy.distance import distance
